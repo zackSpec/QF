@@ -50,3 +50,7 @@ The strategy is tested on **SMH (VanEck Semiconductor ETF)** and compared to a *
 - These results reflect the limits of simple moving average rules on certain assets and underscore the need for improved signal filtering, asset selection, or ML enhancement.
 
 ---
+
+**Note:** This strategy is not recommended for real trading. As a college student exploring quant finance, this project was a way to build foundational skills in backtesting, performance evaluation, and model interpretation.
+
+---
