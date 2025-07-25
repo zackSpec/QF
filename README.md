@@ -3,7 +3,7 @@
 ## Project Summary 
 
 This project demonstrates a **complete backtest pipeline** for a classic rule-based trading strategy:  
-> **Buy when 20-day moving average crosses above the 50-day moving average. Otherwise, sell or keep cash in money markets.**
+> **Buy when 20-day moving average crosses above the 50-day moving average. Otherwise, exit the position and remain in cash**
 
 The strategy is tested on **SMH (VanEck Semiconductor ETF)** and compared to a **buy-and-hold baseline** using real financial metrics extracted from _yfinance_:
 
