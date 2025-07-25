@@ -1,6 +1,6 @@
 # Simple Moving Average Backtest on SMH
 
-## Project Summary
+## Project Summary 
 
 This project demonstrates a **complete backtest pipeline** for a classic rule-based trading strategy:  
 > **Buy when 20-day moving average crosses above the 50-day moving average. Otherwise, sell or keep cash in money markets.**
@@ -23,7 +23,7 @@ The strategy is tested on **SMH (VanEck Semiconductor ETF)** and compared to a *
 
 ---
 
-## Tools Used
+## Tools 
 
 | Tool | Purpose |
 |------|---------|
