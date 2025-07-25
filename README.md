@@ -34,7 +34,7 @@ The strategy is tested on **SMH (VanEck Semiconductor ETF)** and compared to a *
 
 ---
 
-## Results Snapshot
+## Results
 
 | Metric          | Strategy        | Buy & Hold       |
 |-----------------|------------------|------------------|
