@@ -34,7 +34,7 @@ The strategy is tested on **SMH (VanEck Semiconductor ETF)** and compared to a *
 
 ---
 
-## Results Snapshot
+## Results
 
 | Metric          | Strategy        | Buy & Hold       |
 |-----------------|------------------|------------------|
@@ -48,5 +48,9 @@ The strategy is tested on **SMH (VanEck Semiconductor ETF)** and compared to a *
 - The strategy has slightly lower volatility, but also slightly lower return compared to buy-and-hold.
 - Importantly, the strategy significantly reduces max drawdown (69.6% vs 93.1%), suggesting better capital protection in extreme scenarios.
 - These results reflect the limits of simple moving average rules on certain assets and underscore the need for improved signal filtering, asset selection, or ML enhancement.
+
+---
+
+**Note:** This strategy is not recommended for real trading. As a college student exploring quant finance, this project was a way to build foundational skills in backtesting, performance evaluation, and model interpretation.
 
 ---
